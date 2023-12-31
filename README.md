@@ -1,6 +1,6 @@
 # Global Hotels and Resorts GHR Analyis
 
-This project was developed as part of Business Analytics Competition held by Saunders College Of Business at Rochester Institute Of Technology
+This project was developed as a part of Business Analytics Competition held by Saunders College Of Business at Rochester Institute Of Technology
 
 ## Scenario
 
