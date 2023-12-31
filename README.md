@@ -27,8 +27,9 @@ Thanks to judges and mentors for valuable insights. 🌐
 
 53 submissions worldwide, including 31 from RIT, 16 from UofR, and 6 international teams. Used tools like R, Python, Tableau, JMP, and Excel.
 
-We achieved first place 🥇 with teamwork and dedication. Shoutout to my teammate Rahul Kengeri 🙌 Grateful for the journey! Check out the details here: Link 👈
+We achieved first place 🥇 with teamwork and dedication. Shoutout to my teammate Harshitha B Nag 🙌 Grateful for the journey! Check out the details here: https://www.rit.edu/business/sites/rit.edu.business/files/2023-12/2023%20Business%20Analytics%20Competition%20-Round%201%20Presentation%20Results.pdf 👈
 
 ## Artifacts
 
-1) 
+1) GHR_analysis.ipynb - Contains all the code we used to build the graphs and analysis that we used in our executive report
+2) Global Hotels and Resorts(GHR) Analysis.pdf - Executive report containing all our findings and recommendations
